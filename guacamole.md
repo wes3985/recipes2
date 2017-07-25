@@ -1,6 +1,6 @@
 # ingredients
 avo
-lemon
+lime
 salt
 tomato
 # instructions
